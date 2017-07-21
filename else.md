@@ -26,6 +26,6 @@ if __name__ == "__main__":
     main()
     ```
 Komentarz:
-  Jeszcze nie zdefiniowaliśmy metody "greater than", więc próba dokonania tego cudu bez implementacji 
-  metody __gt__ wyskoczy na nas z TypeError :D
-  Po prostu trzeba dorobić resztę metod ^^
+   * Jeszcze nie zdefiniowaliśmy metody "greater than", więc próba dokonania tego cudu bez implementacji 
+     metody __gt__ wyskoczy na nas z TypeError :D
+     Po prostu trzeba dorobić resztę metod ^^
