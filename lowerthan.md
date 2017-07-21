@@ -1,5 +1,5 @@
 ## Rich Comparison Operators
-#### `__lt__ means lower than`
+#### `__lt__ means ,,lower than"`
 #### `x<y calls x.__lt__(y)`
 
 ```
