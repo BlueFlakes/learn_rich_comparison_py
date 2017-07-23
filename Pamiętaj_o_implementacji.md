@@ -1,6 +1,5 @@
 ## Rich Comparison
 
-  * Jeśli nie zaimplementujemy metody porównania obiektów i spróbujemy ją wykonać to wyskoczy na nas TypeError.
   ### Example
   ```
   class Codecooler:
